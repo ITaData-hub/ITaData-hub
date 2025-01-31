@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Michail and I'm a Software developer from Russia</h2>
+<h2 align="left">Hi 👋! My name is Michail and I'm a Software developer 💻 from Russia 🇷🇺</h2>
 
 ###
 
@@ -15,11 +15,11 @@
 
 ###
 
-<h3 align="left">Technical stack:</h3>
+<h3 align="left">Technical stack: 🛠️</h3>
 
 ###
 
-<h4 align="left">1. Frontend:</h4>
+<h4 align="left">1. Frontend: 🌐</h4>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h4 align="left">2. Backend:</h4>
+<h4 align="left">2. Backend: ⚙️</h4>
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<h4 align="left">3. UI/UX</h4>
+<h4 align="left">3. UI/UX 🎨</h4>
 
 ###
 
@@ -77,7 +77,7 @@
 
 ###
 
-<h4 align="left">4. Tools</h4>
+<h4 align="left">4. Tools 🧰</h4>
 
 ###
 
@@ -93,7 +93,7 @@
 
 ###
 
-<h3 align="left">Social media:</h3>
+<h3 align="left">Social media: ✉️</h3>
 
 ###
 
