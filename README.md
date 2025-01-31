@@ -1,6 +1,5 @@
 <div align="center">
   <img height="200" src="https://otkritkis.com/wp-content/uploads/2022/06/jouku.gif"  />
-  <p><em>"A little humor in the code!" 😂</em></p>
 </div>
 
 ###
