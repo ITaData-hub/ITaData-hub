@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Michail and I'm a Software developer 💻 from Russia 🇷🇺</h2>
+<h2 align="left">Hi 👋! My name is Michail and I'm a Software developer 💻 from Russia</h2>
 
 ###
 
