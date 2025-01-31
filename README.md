@@ -1,5 +1,6 @@
 <div align="center">
   <img height="200" src="https://otkritkis.com/wp-content/uploads/2022/06/jouku.gif"  />
+  <p><em>"A little humor in the code!" 😂</em></p>
 </div>
 
 ###
@@ -15,11 +16,11 @@
 
 ###
 
-<h3 align="left">🛠️ Technical stack: 🛠️</h3>
+<h3 align="left">Technical stack: 🛠️ My toolbox for creating digital magic! 🧙‍♂️</h3>
 
 ###
 
-<h4 align="left">🌐 1. Frontend: 🌐</h4>
+<h4 align="left">1. Frontend: 🌐 Crafting user-friendly experiences, one pixel at a time! 🎨</h4>
 
 ###
 
@@ -43,7 +44,7 @@
 
 ###
 
-<h4 align="left">⚙️ 2. Backend: ⚙️</h4>
+<h4 align="left">2. Backend: ⚙️ Building the robust engines that power the web! 🚀</h4>
 
 ###
 
@@ -63,7 +64,7 @@
 
 ###
 
-<h4 align="left">🎨 3. UI/UX 🎨</h4>
+<h4 align="left">3. UI/UX 🎨 Where design meets functionality! ✨</h4>
 
 ###
 
@@ -77,7 +78,7 @@
 
 ###
 
-<h4 align="left">🧰 4. Tools 🧰</h4>
+<h4 align="left">4. Tools 🧰 My trusty companions in the coding adventure! 🗺️</h4>
 
 ###
 
@@ -93,7 +94,7 @@
 
 ###
 
-<h3 align="left">✉️ Social media: ✉️</h3>
+<h3 align="left">Social media: ✉️ Let's connect and share ideas! 🤝</h3>
 
 ###
 
@@ -111,5 +112,41 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ITaData-hub/ITaData-hub/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="left">My goals 🎯:</h3>
+
+###
+
+* Become the best developer in the world 🌎
+* Create your own startup 🚀
+* Help other developers in their careers 🤝
+
+###
+
+<h3 align="left">My hobbies 🎸:</h3>
+
+###
+
+* Play the guitar 🎸
+* Watch movies and TV shows 🍿
+* Read books 📖
+
+###
+
+<h3 align="left">My favorite quotes 💬:</h3>
+
+###
+
+* "The code should be as beautiful as it is functional" 💻
+* "Programming is not only about writing code, but also solving problems" 🤔
+* "The best way to learn is to do" 🎯
+
+###
+
+<div align="center">
+  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="GIF"  />
+</div>
 
 ###
