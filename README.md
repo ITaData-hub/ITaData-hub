@@ -108,12 +108,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ITaData-hub/ITaData-hub/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">My goals 🎯:</h3>
 
 ###
@@ -147,5 +141,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="GIF"  />
 </div>
+
+###
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ITaData-hub/ITaData-hub/output/snake.svg" alt="Snake animation" />
 
 ###
